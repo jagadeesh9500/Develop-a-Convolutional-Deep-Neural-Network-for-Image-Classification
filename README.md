@@ -6,6 +6,10 @@ To develop a convolutional deep neural network (CNN) for image classification an
 ##   PROBLEM STATEMENT AND DATASET
 Include the Problem Statement and Dataset.
 
+## Neural Network Model
+<img width="995" height="470" alt="image" src="https://github.com/user-attachments/assets/a53d7e70-7cca-40ab-a06a-cc49cc274424" />
+
+
 ## DESIGN STEPS
 ### STEP 1: 
 Import the required libraries (torch, torchvision, torch.nn, torch.optim) and load the image dataset with necessary preprocessing like normalization and transformation.
